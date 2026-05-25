@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T14:55:00.000Z",
+  "lastUpdated": "2026-05-25T15:25:00.000Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,35 +27,36 @@
       "name": "Ghost Server",
       "url": "http://localhost:3000",
       "status": "testing",
-      "lastChecked": "2026-05-25T14:55:00.000Z"
+      "lastChecked": "2026-05-25T15:25:00.000Z"
     },
     {
       "name": "Ghost UI v2",
       "url": "http://localhost:3000",
       "status": "testing",
-      "lastChecked": "2026-05-25T14:55:00.000Z"
+      "lastChecked": "2026-05-25T15:25:00.000Z"
     },
     {
       "name": "Mission Control",
       "url": "http://localhost:4000",
       "status": "live",
-      "lastChecked": "2026-05-25T14:55:00.000Z"
+      "lastChecked": "2026-05-25T15:25:00.000Z"
     }
   ],
   "crons": [
     { "name": "🎯 hunter-morning-scan", "schedule": "8:00 AM daily", "lastRun": "2026-05-25T02:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
-    { "name": "🎯 hunter-evening-report", "schedule": "8:00 PM daily", "lastRun": "2026-05-24T14:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
+    { "name": "🎯 hunter-evening-report", "schedule": "8:00 PM daily", "lastRun": "2026-05-25T14:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
     { "name": "🫥 ghost-morning-ping", "schedule": "9:00 AM daily", "lastRun": "2026-05-25T03:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
     { "name": "🫥 ghost-afternoon-ping", "schedule": "2:00 PM daily", "lastRun": "2026-05-25T08:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
-    { "name": "🫥 ghost-evening-ping", "schedule": "9:00 PM daily", "lastRun": "2026-05-24T15:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
-    { "name": "🫥 ghost-weekly-goals", "schedule": "Mon 9:00 AM", "lastRun": "2026-05-18T03:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
+    { "name": "🫥 ghost-evening-ping", "schedule": "9:00 PM daily", "lastRun": "2026-05-25T15:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
+    { "name": "🫥 ghost-weekly-goals", "schedule": "Mon 9:00 AM", "lastRun": "2026-05-25T03:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
     { "name": "🔄 openclaw-update-check", "schedule": "Every 3 days", "lastRun": "2026-05-22T04:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
     { "name": "📦 skills-auto-update", "schedule": "Every 3 days 10AM", "lastRun": "2026-05-22T04:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
     { "name": "📋 morning-brief", "schedule": "9:00 AM daily", "lastRun": "2026-05-25T03:30:00.000Z", "status": "error", "errors": 1, "lastError": "Execution timed out at 240s — fixed, now 90s limit" },
     { "name": "🔬 nightly-rd-report", "schedule": "2:00 AM daily", "lastRun": "2026-05-25T20:30:00.000Z", "status": "error", "errors": 1, "lastError": "Execution timed out — fixed, now lightweight 120s check" },
-    { "name": "🔄 ghost-dashboard-update", "schedule": "Every 30 min", "lastRun": "2026-05-25T14:55:00.000Z", "status": "ok", "errors": 0, "lastError": null }
+    { "name": "🔄 ghost-dashboard-update", "schedule": "Every 30 min", "lastRun": "2026-05-25T15:25:00.000Z", "status": "ok", "errors": 0, "lastError": null }
   ],
   "recentActivity": [
+    { "time": "2026-05-25T15:25:00.000Z", "event": "🔄 Dashboard updated — 1 cron active, 0 sub-agents running" },
     { "time": "2026-05-25T14:55:00.000Z", "event": "🔄 Dashboard updated — 1 cron active, 0 sub-agents running" },
     { "time": "2026-05-25T14:25:00.000Z", "event": "🔄 Dashboard updated — 1 cron active, 0 sub-agents running" },
     { "time": "2026-05-25T13:55:00.000Z", "event": "🔄 Dashboard updated — 1 cron active, 0 sub-agents running" },
