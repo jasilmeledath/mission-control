@@ -1,0 +1,67 @@
+{
+  "lastUpdated": "2026-05-25T10:49:00.000Z",
+  "actionRequired": [
+    {
+      "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
+      "url": "https://www.linkedin.com/company/mygyan",
+      "priority": "high"
+    },
+    {
+      "title": "Email nikhil@giki.ai — 92% match, direct contact, no portal friction",
+      "url": "mailto:nikhil@giki.ai",
+      "priority": "high"
+    },
+    {
+      "title": "Start DSA grind — 2 LeetCode problems/day. Google L3 deadline: Dec 2027",
+      "url": "https://leetcode.com",
+      "priority": "medium"
+    },
+    {
+      "title": "Start React practice — 1-2 hrs/day. Job deadline: Jul/Aug 2026",
+      "priority": "medium"
+    }
+  ],
+  "activeNow": [],
+  "products": [
+    {
+      "name": "Ghost Server",
+      "url": "http://localhost:3000",
+      "status": "testing",
+      "lastChecked": "2026-05-25T10:49:00.000Z"
+    },
+    {
+      "name": "Ghost UI v2",
+      "url": "http://localhost:3000",
+      "status": "testing",
+      "lastChecked": "2026-05-25T10:49:00.000Z"
+    },
+    {
+      "name": "Mission Control",
+      "url": "http://localhost:4000",
+      "status": "live",
+      "lastChecked": "2026-05-25T10:49:00.000Z"
+    }
+  ],
+  "crons": [
+    { "name": "🎯 hunter-morning-scan", "schedule": "8:00 AM daily", "lastRun": "2026-05-25T02:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
+    { "name": "🎯 hunter-evening-report", "schedule": "8:00 PM daily", "lastRun": "2026-05-24T14:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
+    { "name": "🫥 ghost-morning-ping", "schedule": "9:00 AM daily", "lastRun": "2026-05-25T03:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
+    { "name": "🫥 ghost-afternoon-ping", "schedule": "2:00 PM daily", "lastRun": "2026-05-25T08:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
+    { "name": "🫥 ghost-evening-ping", "schedule": "9:00 PM daily", "lastRun": "2026-05-24T15:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
+    { "name": "🫥 ghost-weekly-goals", "schedule": "Mon 9:00 AM", "lastRun": "2026-05-18T03:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
+    { "name": "🔄 openclaw-update-check", "schedule": "Every 3 days", "lastRun": "2026-05-22T04:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
+    { "name": "📦 skills-auto-update", "schedule": "Every 3 days 10AM", "lastRun": "2026-05-22T04:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
+    { "name": "📋 morning-brief", "schedule": "9:00 AM daily", "lastRun": "2026-05-25T03:30:00.000Z", "status": "error", "errors": 1, "lastError": "Execution timed out at 240s — fixed, now 90s limit" },
+    { "name": "🔬 nightly-rd-report", "schedule": "2:00 AM daily", "lastRun": "2026-05-25T20:30:00.000Z", "status": "error", "errors": 1, "lastError": "Execution timed out — fixed, now lightweight 120s check" }
+  ],
+  "recentActivity": [
+    { "time": "2026-05-25T10:49:00.000Z", "event": "✅ agent-dashboard installed — Mission Control live" },
+    { "time": "2026-05-25T10:30:00.000Z", "event": "🔧 Fixed morning-brief + nightly-rd-report timeout issues" },
+    { "time": "2026-05-25T10:00:00.000Z", "event": "📦 18 new skills installed (humanizer, nano-pdf, superdesign, browser-automation...)" },
+    { "time": "2026-05-25T09:30:00.000Z", "event": "🎯 Hunter Bangalore scan — 8 matches, 4 tailored resumes created" },
+    { "time": "2026-05-25T09:00:00.000Z", "event": "🎯 Hunter first scan — 10 matches, 5 resumes, Discord DM sent" },
+    { "time": "2026-05-25T08:00:00.000Z", "event": "🫥 Ghost server.js refactored: 1681 lines → 91 lines + 11 modules" },
+    { "time": "2026-05-25T07:30:00.000Z", "event": "🎯 Goals locked: Bangalore job Jul 2026, Google L3 Dec 2027" },
+    { "time": "2026-05-25T07:00:00.000Z", "event": "🔄 OpenClaw updated 2026.5.7 → 2026.5.22, gateway live" }
+  ]
+}
