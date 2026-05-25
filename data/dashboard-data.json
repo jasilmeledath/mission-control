@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T11:25:00.000Z",
+  "lastUpdated": "2026-05-25T11:55:00.000Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,19 +27,19 @@
       "name": "Ghost Server",
       "url": "http://localhost:3000",
       "status": "testing",
-      "lastChecked": "2026-05-25T11:25:00.000Z"
+      "lastChecked": "2026-05-25T11:55:00.000Z"
     },
     {
       "name": "Ghost UI v2",
       "url": "http://localhost:3000",
       "status": "testing",
-      "lastChecked": "2026-05-25T11:25:00.000Z"
+      "lastChecked": "2026-05-25T11:55:00.000Z"
     },
     {
       "name": "Mission Control",
       "url": "http://localhost:4000",
       "status": "live",
-      "lastChecked": "2026-05-25T11:25:00.000Z"
+      "lastChecked": "2026-05-25T11:55:00.000Z"
     }
   ],
   "crons": [
@@ -53,16 +53,15 @@
     { "name": "📦 skills-auto-update", "schedule": "Every 3 days 10AM", "lastRun": "2026-05-22T04:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
     { "name": "📋 morning-brief", "schedule": "9:00 AM daily", "lastRun": "2026-05-25T03:30:00.000Z", "status": "error", "errors": 1, "lastError": "Execution timed out at 240s — fixed, now 90s limit" },
     { "name": "🔬 nightly-rd-report", "schedule": "2:00 AM daily", "lastRun": "2026-05-25T20:30:00.000Z", "status": "error", "errors": 1, "lastError": "Execution timed out — fixed, now lightweight 120s check" },
-    { "name": "🔄 ghost-dashboard-update", "schedule": "Every 30 min", "lastRun": "2026-05-25T11:25:00.000Z", "status": "ok", "errors": 0, "lastError": null }
+    { "name": "🔄 ghost-dashboard-update", "schedule": "Every 30 min", "lastRun": "2026-05-25T11:55:00.000Z", "status": "ok", "errors": 0, "lastError": null }
   ],
   "recentActivity": [
+    { "time": "2026-05-25T11:55:00.000Z", "event": "🔄 Dashboard updated — 1 cron active, 0 sub-agents running" },
     { "time": "2026-05-25T11:25:00.000Z", "event": "🔄 Dashboard updated — 1 active cron, 0 sub-agents running" },
     { "time": "2026-05-25T10:49:00.000Z", "event": "✅ agent-dashboard installed — Mission Control live" },
     { "time": "2026-05-25T10:30:00.000Z", "event": "🔧 Fixed morning-brief + nightly-rd-report timeout issues" },
     { "time": "2026-05-25T10:00:00.000Z", "event": "📦 18 new skills installed (humanizer, nano-pdf, superdesign, browser-automation...)" },
     { "time": "2026-05-25T09:30:00.000Z", "event": "🎯 Hunter Bangalore scan — 8 matches, 4 tailored resumes created" },
-    { "time": "2026-05-25T09:00:00.000Z", "event": "🎯 Hunter first scan — 10 matches, 5 resumes, Discord DM sent" },
-    { "time": "2026-05-25T08:00:00.000Z", "event": "🫥 Ghost server.js refactored: 1681 lines → 91 lines + 11 modules" },
-    { "time": "2026-05-25T07:30:00.000Z", "event": "🎯 Goals locked: Bangalore job Jul 2026, Google L3 Dec 2027" }
+    { "time": "2026-05-25T09:00:00.000Z", "event": "🎯 Hunter first scan — 10 matches, 5 resumes, Discord DM sent" }
   ]
 }
