@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T03:08:00.000Z",
+  "lastUpdated": "2026-05-26T03:38:00.000Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,19 +27,19 @@
       "name": "Ghost Server",
       "url": "http://localhost:3000",
       "status": "testing",
-      "lastChecked": "2026-05-26T03:08:00.000Z"
+      "lastChecked": "2026-05-26T03:38:00.000Z"
     },
     {
       "name": "Ghost UI v2",
       "url": "http://localhost:3000",
       "status": "testing",
-      "lastChecked": "2026-05-26T03:08:00.000Z"
+      "lastChecked": "2026-05-26T03:38:00.000Z"
     },
     {
       "name": "Mission Control",
       "url": "http://localhost:4000",
       "status": "live",
-      "lastChecked": "2026-05-26T03:08:00.000Z"
+      "lastChecked": "2026-05-26T03:38:00.000Z"
     }
   ],
   "crons": [
@@ -53,9 +53,10 @@
     { "name": "📦 skills-auto-update", "schedule": "Every 3 days 10AM", "lastRun": "2026-05-22T04:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
     { "name": "📋 morning-brief", "schedule": "9:00 AM daily", "lastRun": "2026-05-25T03:30:00.000Z", "status": "error", "errors": 1, "lastError": "Execution timed out at 240s — fixed, now 90s limit" },
     { "name": "🔬 nightly-rd-report", "schedule": "2:00 AM daily", "lastRun": "2026-05-25T20:30:00.000Z", "status": "error", "errors": 1, "lastError": "Execution timed out — fixed, now lightweight 120s check" },
-    { "name": "🔄 ghost-dashboard-update", "schedule": "Every 30 min", "lastRun": "2026-05-26T03:08:00.000Z", "status": "ok", "errors": 0, "lastError": null }
+    { "name": "🔄 ghost-dashboard-update", "schedule": "Every 30 min", "lastRun": "2026-05-26T03:38:00.000Z", "status": "ok", "errors": 0, "lastError": null }
   ],
   "recentActivity": [
+    { "time": "2026-05-26T03:38:00.000Z", "event": "🔄 Dashboard updated — 1 cron active (ok, 0 errors), 0 sub-agents running" },
     { "time": "2026-05-26T03:08:00.000Z", "event": "🔄 Dashboard updated — 1 cron active (ok, 0 errors), 0 sub-agents running" },
     { "time": "2026-05-26T02:38:00.000Z", "event": "🔄 Dashboard updated — 1 cron active (last run errored: bedrock DNS), 0 sub-agents running" },
     { "time": "2026-05-26T01:38:00.000Z", "event": "🔄 Dashboard updated — 1 cron active, 0 sub-agents running" },
@@ -64,7 +65,6 @@
     { "time": "2026-05-26T00:08:00.000Z", "event": "🔄 Dashboard updated — 1 cron active, 0 sub-agents running" },
     { "time": "2026-05-25T23:38:00.000Z", "event": "🔄 Dashboard updated — 1 cron active, 0 sub-agents running" },
     { "time": "2026-05-25T23:08:00.000Z", "event": "🔄 Dashboard updated — 1 cron active, 0 sub-agents running" },
-    { "time": "2026-05-25T22:38:00.000Z", "event": "🔄 Dashboard updated — 1 cron active, 0 sub-agents running, dashboard-update recovered (ok)" },
-    { "time": "2026-05-25T22:08:00.000Z", "event": "🔄 Dashboard updated — 1 cron active (3 consecutive errors: bedrock DNS failure + missing fallback auth), 0 sub-agents running" }
+    { "time": "2026-05-25T22:38:00.000Z", "event": "🔄 Dashboard updated — 1 cron active, 0 sub-agents running, dashboard-update recovered (ok)" }
   ]
 }
