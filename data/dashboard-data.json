@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T21:51:00.000Z",
+  "lastUpdated": "2026-05-26T22:22:00.000Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,19 +27,19 @@
       "name": "Ghost Server",
       "url": "http://localhost:3000",
       "status": "testing",
-      "lastChecked": "2026-05-26T21:51:00.000Z"
+      "lastChecked": "2026-05-26T22:22:00.000Z"
     },
     {
       "name": "Ghost UI v2",
       "url": "http://localhost:3000",
       "status": "testing",
-      "lastChecked": "2026-05-26T21:51:00.000Z"
+      "lastChecked": "2026-05-26T22:22:00.000Z"
     },
     {
       "name": "Mission Control",
       "url": "http://localhost:4000",
       "status": "live",
-      "lastChecked": "2026-05-26T21:51:00.000Z"
+      "lastChecked": "2026-05-26T22:22:00.000Z"
     }
   ],
   "crons": [
@@ -53,9 +53,10 @@
     { "name": "📦 skills-auto-update", "schedule": "Every 3 days 10AM", "lastRun": "2026-05-22T04:30:00.000Z", "status": "ok", "errors": 0, "lastError": null },
     { "name": "📋 morning-brief", "schedule": "9:00 AM daily", "lastRun": "2026-05-26T03:30:00.000Z", "status": "error", "errors": 1, "lastError": "Execution timed out at 240s — fixed, now 90s limit" },
     { "name": "🔬 nightly-rd-report", "schedule": "2:00 AM daily", "lastRun": "2026-05-25T20:30:00.000Z", "status": "error", "errors": 1, "lastError": "Execution timed out — fixed, now lightweight 120s check" },
-    { "name": "🔄 ghost-dashboard-update", "schedule": "Every 30 min", "lastRun": "2026-05-26T21:51:00.000Z", "status": "ok", "errors": 0, "lastError": null }
+    { "name": "🔄 ghost-dashboard-update", "schedule": "Every 30 min", "lastRun": "2026-05-26T22:22:00.000Z", "status": "ok", "errors": 0, "lastError": null }
   ],
   "recentActivity": [
+    { "time": "2026-05-26T22:22:00.000Z", "event": "🔄 Dashboard updated — ghost-dashboard-update ok (0 consecutive errors), 0 sub-agents running" },
     { "time": "2026-05-26T21:51:00.000Z", "event": "🔄 Dashboard updated — ghost-dashboard-update recovered (0 consecutive errors), 0 sub-agents running" },
     { "time": "2026-05-26T21:19:00.000Z", "event": "🔄 Dashboard updated — ghost-dashboard-update has 2 consecutive timeout errors (60s limit hit during model call), 0 sub-agents running" },
     { "time": "2026-05-26T19:48:00.000Z", "event": "🔄 Dashboard updated — ghost-dashboard-update recovered (0 consecutive errors), 0 sub-agents running" },
@@ -64,7 +65,6 @@
     { "time": "2026-05-26T12:08:15.000Z", "event": "🔄 Dashboard updated — 1 cron active (ok, 0 errors), 0 sub-agents running" },
     { "time": "2026-05-26T11:38:15.000Z", "event": "🔄 Dashboard updated — 1 cron active (ok, 0 errors), 0 sub-agents running" },
     { "time": "2026-05-26T11:08:15.000Z", "event": "🔄 Dashboard updated — 1 cron active (ok, 0 errors), 0 sub-agents running" },
-    { "time": "2026-05-26T10:38:00.000Z", "event": "🔄 Dashboard updated — 1 cron active (ok, 0 errors), 0 sub-agents running" },
-    { "time": "2026-05-26T10:08:00.000Z", "event": "🔄 Dashboard updated — 1 cron active (ok, 0 errors), 0 sub-agents running" }
+    { "time": "2026-05-26T10:38:00.000Z", "event": "🔄 Dashboard updated — 1 cron active (ok, 0 errors), 0 sub-agents running" }
   ]
 }
