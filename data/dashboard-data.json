@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T18:55:00.000Z",
+  "lastUpdated": "2026-05-29T19:25:00.000Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-05-29T18:55:00.000Z",
-      "status": "error",
-      "errors": 1,
-      "lastError": "cron: job execution timed out (last phase: model-call-started)"
+      "lastRun": "2026-05-29T19:25:00.000Z",
+      "status": "ok",
+      "errors": 0,
+      "lastError": null
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-29T19:25:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
     { "time": "2026-05-29T18:55:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN. CPU 126.7%, RAM 76%. Discord alert sent." },
     { "time": "2026-05-29T18:55:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (1 error), 0 sub-agents active" },
     { "time": "2026-05-29T17:39:25.000Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
@@ -42,8 +43,6 @@
     { "time": "2026-05-29T17:08:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN. CPU 56.5%, RAM 75%. Discord alert sent." },
     { "time": "2026-05-29T16:39:25.798Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
     { "time": "2026-05-29T16:38:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN. CPU 41.7%, RAM 74%. Discord alert sent." },
-    { "time": "2026-05-29T16:09:25.786Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
-    { "time": "2026-05-29T16:08:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN. CPU 39.3%, RAM 72%. Discord alert sent." },
-    { "time": "2026-05-29T15:39:25.747Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" }
+    { "time": "2026-05-29T16:09:25.786Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" }
   ]
 }
