@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T13:09:25.000Z",
+  "lastUpdated": "2026-05-29T13:39:00.000Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-05-29T13:09:25.690Z",
+      "lastRun": "2026-05-29T13:36:05.699Z",
       "status": "ok",
       "errors": 0,
       "lastError": null
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-29T13:39:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
     { "time": "2026-05-29T13:38:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN. CPU 35.9%, RAM 73%. Discord alert sent." },
     { "time": "2026-05-29T13:09:25.000Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
     { "time": "2026-05-29T13:08:00.000Z", "event": "🐺 Max scan — ALERTS: CPU 130% overload, guitman.shop DOWN. Discord alert sent." },
@@ -42,8 +43,6 @@
     { "time": "2026-05-29T12:10:00.000Z", "event": "🐺 Max activated — system monitor cron live, renamed from Viper" },
     { "time": "2026-05-29T12:00:37.000Z", "event": "🔄 Dashboard refreshed — 11 crons live, 0 sub-agents active" },
     { "time": "2026-05-29T11:57:15.000Z", "event": "🔄 ghost-openclaw-update-check ran — OpenClaw up to date" },
-    { "time": "2026-05-29T08:30:00.000Z", "event": "🌙 nightly-rd-report completed" },
-    { "time": "2026-05-29T08:30:00.000Z", "event": "☀️ ghost-morning-ping delivered" },
-    { "time": "2026-05-29T02:30:00.000Z", "event": "🎯 hunter-morning-scan completed" }
+    { "time": "2026-05-29T08:30:00.000Z", "event": "🌙 nightly-rd-report completed" }
   ]
 }
