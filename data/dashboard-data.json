@@ -27,6 +27,7 @@
     { "name": "ghost-dashboard-update", "schedule": "Every 30 min", "lastRun": "2026-05-29T12:38:49.278Z", "status": "ok", "errors": 0, "lastError": null }
   ],
   "recentActivity": [
+    { "time": "2026-05-29T13:08:00.000Z", "event": "🐺 Max scan — ALERTS: CPU 130% overload, guitman.shop DOWN. Discord alert sent." },
     { "time": "2026-05-29T12:39:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
     { "time": "2026-05-29T12:38:00.000Z", "event": "🐺 Max scan — ALERTS: CPU 264% overload, guitman.shop DOWN. Discord alert sent." },
     { "time": "2026-05-29T12:10:00.000Z", "event": "🐺 Max activated — system monitor cron live, renamed from Viper" },
