@@ -34,6 +34,7 @@
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-29T19:56:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN. CPU 153%, RAM 76%. Discord alert sent." },
     { "time": "2026-05-29T19:55:49.147Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
     { "time": "2026-05-29T19:25:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN. CPU 184%, RAM 75%. Discord alert sent." },
     { "time": "2026-05-29T19:25:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
