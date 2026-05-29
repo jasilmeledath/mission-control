@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T14:39:25.720Z",
+  "lastUpdated": "2026-05-29T15:09:25.730Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-05-29T14:09:25.720Z",
+      "lastRun": "2026-05-29T14:39:25.730Z",
       "status": "ok",
       "errors": 0,
       "lastError": null
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-29T15:09:25.730Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
     { "time": "2026-05-29T15:08:00.000Z", "event": "🐺 Max scan — ALERTS: CPU 106.8% overload, guitman.shop DOWN. Discord alert sent." },
     { "time": "2026-05-29T14:39:25.720Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
     { "time": "2026-05-29T14:38:00.000Z", "event": "🐺 Max scan — ALERTS: CPU 172% overload, guitman.shop DOWN. Discord alert sent." },
@@ -42,8 +43,6 @@
     { "time": "2026-05-29T13:39:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
     { "time": "2026-05-29T13:38:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN. CPU 35.9%, RAM 73%. Discord alert sent." },
     { "time": "2026-05-29T13:09:25.000Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
-    { "time": "2026-05-29T13:08:00.000Z", "event": "🐺 Max scan — ALERTS: CPU 130% overload, guitman.shop DOWN. Discord alert sent." },
-    { "time": "2026-05-29T12:39:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live, 0 sub-agents active" },
-    { "time": "2026-05-29T12:38:00.000Z", "event": "🐺 Max scan — ALERTS: CPU 264% overload, guitman.shop DOWN. Discord alert sent." }
+    { "time": "2026-05-29T13:08:00.000Z", "event": "🐺 Max scan — ALERTS: CPU 130% overload, guitman.shop DOWN. Discord alert sent." }
   ]
 }
