@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T03:55:49.453Z",
+  "lastUpdated": "2026-05-30T04:25:49.488Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-05-30T03:25:49.431Z",
+      "lastRun": "2026-05-30T04:25:49.488Z",
       "status": "ok",
       "errors": 0,
       "lastError": null
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-30T04:25:49.488Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-30T03:56:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 37%, RAM 76%. Discord alert sent." },
     { "time": "2026-05-30T03:55:49.453Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-30T03:26:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 33.6%, RAM 76%. Discord alert sent." },
@@ -42,8 +43,6 @@
     { "time": "2026-05-30T02:55:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-30T02:26:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 64.2% (elevated), RAM 76%. Discord alert sent." },
     { "time": "2026-05-30T02:25:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-30T01:56:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 36.5%, RAM 77%. Discord alert sent." },
-    { "time": "2026-05-30T01:55:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-30T01:26:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 28.7%, RAM 77%. Discord alert sent." }
+    { "time": "2026-05-30T01:56:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 36.5%, RAM 77%. Discord alert sent." }
   ]
 }
