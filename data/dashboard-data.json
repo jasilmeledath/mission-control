@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T22:37:05.135Z",
+  "lastUpdated": "2026-05-30T23:07:05.144Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-05-30T22:37:05.127Z",
+      "lastRun": "2026-05-30T23:07:05.135Z",
       "status": "ok",
       "errors": 0,
       "lastError": null
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-30T23:07:05.144Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T04:07:00.000Z", "event": "🐺 Max scan — ALERT: CPU 204.7% (critically high), guitman.shop DOWN (persistent), RAM 77% ✅ Disk 43% ✅. Discord alert sent." },
     { "time": "2026-05-30T22:37:05.135Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T03:37:00.000Z", "event": "🐺 Max scan — ALERT: CPU 118.7% (high), guitman.shop DOWN (persistent), RAM 77% ✅ Disk 43% ✅. Discord alert sent." },
@@ -42,8 +43,6 @@
     { "time": "2026-05-30T21:37:05.110Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T02:37:00.000Z", "event": "🐺 Max scan — ALERT: CPU 177% (critically high), guitman.shop DOWN (persistent), RAM 78%. Discord alert sent." },
     { "time": "2026-05-30T21:07:05.093Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-31T02:07:00.000Z", "event": "🐺 Max scan — ALERT: CPU 115% (high), guitman.shop DOWN (persistent), RAM 77%. Discord alert sent." },
-    { "time": "2026-05-30T20:37:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-31T20:07:00.000Z", "event": "🐺 Max scan — ALERT: CPU 97.9% (critically high), guitman.shop DOWN (persistent), RAM 78%. Discord alert sent." }
+    { "time": "2026-05-31T02:07:00.000Z", "event": "🐺 Max scan — ALERT: CPU 115% (high), guitman.shop DOWN (persistent), RAM 77%. Discord alert sent." }
   ]
 }
