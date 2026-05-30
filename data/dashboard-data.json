@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T16:07:04.859Z",
+  "lastUpdated": "2026-05-30T16:37:04.871Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-05-30T16:07:04.841Z",
-      "status": "ok",
-      "errors": 0,
-      "lastError": null
+      "lastRun": "2026-05-30T16:07:24.859Z",
+      "status": "error",
+      "errors": 1,
+      "lastError": "cron: job execution timed out (last phase: model-call-started)"
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-30T16:37:04.871Z", "event": "🔄 Dashboard refreshed — 1 cron (1 error: timeout), 0 sub-agents active" },
     { "time": "2026-05-30T16:07:04.859Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-30T15:37:00.000Z", "event": "🐺 Max scan — ALERT: CPU 89.7% (high), guitman.shop DOWN (persistent), RAM 76%. Discord alert sent." },
     { "time": "2026-05-30T15:37:04.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
@@ -42,7 +43,6 @@
     { "time": "2026-05-30T12:14:00.000Z", "event": "🐺 Max scan — ALERT: CPU 90.1% (high), guitman.shop DOWN (persistent), RAM 75%. Discord alert sent." },
     { "time": "2026-05-30T12:14:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (2 errors: model auth in isolated), 0 sub-agents active" },
     { "time": "2026-05-30T10:32:00.000Z", "event": "🐺 Max scan — ALERT: CPU 311.9% (overload), guitman.shop DOWN (persistent), RAM 77%. Discord alert sent." },
-    { "time": "2026-05-30T10:32:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-30T09:59:00.000Z", "event": "🐺 Max scan — ALERT: CPU 360.3% (overload), guitman.shop DOWN (persistent), RAM 78%. Discord alert sent." }
+    { "time": "2026-05-30T10:32:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" }
   ]
 }
