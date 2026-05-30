@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T19:07:04.000Z",
+  "lastUpdated": "2026-05-30T19:37:00.000Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-05-30T18:37:04.969Z",
+      "lastRun": "2026-05-30T19:07:04.987Z",
       "status": "ok",
       "errors": 0,
       "lastError": null
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-30T19:37:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T19:07:00.000Z", "event": "🐺 Max scan — ALERT: CPU 91.7% (high), guitman.shop DOWN (persistent), RAM 78%. Discord alert sent." },
     { "time": "2026-05-30T19:07:04.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-30T18:37:00.000Z", "event": "🐺 Max scan — ALERT: CPU 83.5% (high), RAM 77%, guitman.shop DOWN (persistent). Discord alert sent." },
@@ -42,8 +43,6 @@
     { "time": "2026-05-30T17:37:04.940Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-30T17:07:00.000Z", "event": "🐺 Max scan — ALERT: CPU 115% (high), guitman.shop DOWN (persistent), RAM 78%. Discord alert sent." },
     { "time": "2026-05-30T17:07:04.871Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-30T16:37:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 39.3%, RAM 73%. Discord alert sent." },
-    { "time": "2026-05-30T16:37:04.871Z", "event": "🔄 Dashboard refreshed — 1 cron (1 error: timeout), 0 sub-agents active" },
-    { "time": "2026-05-30T16:07:04.859Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" }
+    { "time": "2026-05-30T16:37:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 39.3%, RAM 73%. Discord alert sent." }
   ]
 }
