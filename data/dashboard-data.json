@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T06:25:49.578Z",
+  "lastUpdated": "2026-05-30T07:25:49.912Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-05-30T06:25:49.553Z",
-      "status": "ok",
-      "errors": 0,
-      "lastError": null
+      "lastRun": "2026-05-30T07:09:49.598Z",
+      "status": "error",
+      "errors": 1,
+      "lastError": "All models failed (3): bedrock timeout | nvidia auth missing | groq auth missing"
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-30T07:25:49.912Z", "event": "🔄 Dashboard refreshed — 1 cron live (1 error: bedrock timeout + fallback auth), 0 sub-agents active" },
     { "time": "2026-05-30T06:26:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 101.3% (high load), RAM 79%. Discord alert sent." },
     { "time": "2026-05-30T06:25:49.578Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-30T05:56:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 21.7%, RAM 77%. Discord alert sent." },
@@ -42,8 +43,6 @@
     { "time": "2026-05-30T05:25:49.509Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-30T04:56:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 43%, RAM 76%. Discord alert sent." },
     { "time": "2026-05-30T04:55:49.509Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-30T04:26:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 156.5% (high load), RAM 77%. Discord alert sent." },
-    { "time": "2026-05-30T04:25:49.488Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-30T03:56:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 37%, RAM 76%. Discord alert sent." }
+    { "time": "2026-05-30T04:26:00.000Z", "event": "🐺 Max scan — ALERT: guitman.shop DOWN (persistent). CPU 156.5% (high load), RAM 77%. Discord alert sent." }
   ]
 }
