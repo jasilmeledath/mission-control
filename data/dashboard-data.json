@@ -34,6 +34,7 @@
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-31T06:28:00.000Z", "event": "🐺 Max scan — ALERT: CPU 135.2% (high), guitman.shop DOWN (persistent). RAM 79% ✅ Disk 44% ✅. Discord alert sent." },
     { "time": "2026-05-31T06:28:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (3 consecutive errors: bedrock DNS timeout), 0 sub-agents active" },
     { "time": "2026-05-31T04:07:00.000Z", "event": "🐺 Max scan — ALERT: CPU 98.6% (high), guitman.shop DOWN. RAM 77% ✅ Disk 44% ✅. Discord alert sent." },
     { "time": "2026-05-31T04:07:06.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
