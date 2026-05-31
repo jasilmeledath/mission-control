@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T13:53:41.162Z",
+  "lastUpdated": "2026-05-31T14:23:41.185Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-05-31T13:53:41.147Z",
+      "lastRun": "2026-05-31T14:23:41.162Z",
       "status": "ok",
       "errors": 0,
       "lastError": null
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-31T14:23:41.185Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T13:54:00.000Z", "event": "🐺 Max scan — ALERT: CPU 227.2% (very high), guitman.shop DOWN (persistent). RAM 80% (6.4/8GB) ✅ Disk 46% ✅. Discord alert sent." },
     { "time": "2026-05-31T13:53:41.162Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T13:24:00.000Z", "event": "🐺 Max scan — ALERT: CPU 156.7% (high), guitman.shop DOWN (persistent). RAM 77% (6.2/8GB) ✅ Disk 46% ✅. Discord alert sent." },
@@ -42,8 +43,6 @@
     { "time": "2026-05-31T12:53:41.101Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T12:24:00.000Z", "event": "🐺 Max scan — ALERT: CPU 112.2% (high), guitman.shop DOWN (persistent). RAM 79% (6.3/8GB) ✅ Disk 46% ✅. Discord alert sent." },
     { "time": "2026-05-31T12:23:41.101Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-31T11:54:00.000Z", "event": "🐺 Max scan — ALERT: CPU 173.3% (high), guitman.shop DOWN (persistent). RAM 79% (6.3/8GB) ✅ Disk 46% ✅. Discord alert sent." },
-    { "time": "2026-05-31T11:53:41.088Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-31T11:24:00.000Z", "event": "🐺 Max scan — ALERT: CPU 167.9% (high), guitman.shop DOWN (persistent). RAM 79% (6.3/8GB) ✅ Disk 49% ✅. Discord alert sent." }
+    { "time": "2026-05-31T11:54:00.000Z", "event": "🐺 Max scan — ALERT: CPU 173.3% (high), guitman.shop DOWN (persistent). RAM 79% (6.3/8GB) ✅ Disk 46% ✅. Discord alert sent." }
   ]
 }
