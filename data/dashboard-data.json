@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T17:23:41.347Z",
+  "lastUpdated": "2026-05-31T17:53:41.372Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-05-31T16:53:41.310Z",
+      "lastRun": "2026-05-31T17:23:41.347Z",
       "status": "ok",
       "errors": 0,
       "lastError": null
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-31T17:53:41.372Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T17:23:41.347Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T16:53:41.310Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T16:23:41.290Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
@@ -42,7 +43,6 @@
     { "time": "2026-05-31T14:53:41.200Z", "event": "🔄 Dashboard refreshed — 1 cron live (1 error: timeout), 0 sub-agents active" },
     { "time": "2026-05-31T14:25:00.000Z", "event": "🐺 Max scan — ALERT: CPU 132.1% (high), guitman.shop DOWN (persistent). RAM 78% (6.2/8GB) ✅ Disk 47% ✅. Discord alert sent." },
     { "time": "2026-05-31T14:23:41.185Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-31T13:54:00.000Z", "event": "🐺 Max scan — ALERT: CPU 227.2% (very high), guitman.shop DOWN (persistent). RAM 80% (6.4/8GB) ✅ Disk 46% ✅. Discord alert sent." },
-    { "time": "2026-05-31T13:53:41.162Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" }
+    { "time": "2026-05-31T13:54:00.000Z", "event": "🐺 Max scan — ALERT: CPU 227.2% (very high), guitman.shop DOWN (persistent). RAM 80% (6.4/8GB) ✅ Disk 46% ✅. Discord alert sent." }
   ]
 }
