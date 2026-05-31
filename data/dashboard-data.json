@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T06:28:00.000Z",
+  "lastUpdated": "2026-05-31T07:30:00.000Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-05-31T06:07:09.623Z",
+      "lastRun": "2026-05-31T07:07:27.030Z",
       "status": "error",
-      "errors": 3,
-      "lastError": "All models failed: bedrock DNS timeout + nvidia/groq auth missing in isolated agent"
+      "errors": 1,
+      "lastError": "http2 request did not get a response"
     }
   ],
   "recentActivity": [
+    { "time": "2026-05-31T07:30:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (1 consecutive error: http2 request failed), 0 sub-agents active" },
     { "time": "2026-05-31T06:28:00.000Z", "event": "🐺 Max scan — ALERT: CPU 135.2% (high), guitman.shop DOWN (persistent). RAM 79% ✅ Disk 44% ✅. Discord alert sent." },
     { "time": "2026-05-31T06:28:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (3 consecutive errors: bedrock DNS timeout), 0 sub-agents active" },
     { "time": "2026-05-31T04:07:00.000Z", "event": "🐺 Max scan — ALERT: CPU 98.6% (high), guitman.shop DOWN. RAM 77% ✅ Disk 44% ✅. Discord alert sent." },
@@ -42,8 +43,6 @@
     { "time": "2026-05-31T04:07:00.000Z", "event": "🐺 Max scan — ALERT: CPU 204.7% (critically high), guitman.shop DOWN (persistent), RAM 77% ✅ Disk 43% ✅. Discord alert sent." },
     { "time": "2026-05-31T03:37:06.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (5 consecutive errors, bedrock DNS timeout), 0 sub-agents active" },
     { "time": "2026-05-31T03:37:00.000Z", "event": "🐺 Max scan — ALERT: CPU 111.6% (high), guitman.shop DOWN (persistent), RAM 75% ✅ Disk 44% ✅. Discord alert sent." },
-    { "time": "2026-05-31T03:07:05.282Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-31T03:37:00.000Z", "event": "🐺 Max scan — ALERT: CPU 118.7% (high), guitman.shop DOWN (persistent), RAM 77% ✅ Disk 43% ✅. Discord alert sent." },
-    { "time": "2026-05-31T00:37:05.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" }
+    { "time": "2026-05-31T03:07:05.282Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" }
   ]
 }
