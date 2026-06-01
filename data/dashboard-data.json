@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T02:23:41.866Z",
+  "lastUpdated": "2026-06-01T02:53:41.895Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-06-01T01:53:41.838Z",
+      "lastRun": "2026-06-01T02:23:41.866Z",
       "status": "ok",
       "errors": 0,
       "lastError": null
     }
   ],
   "recentActivity": [
+    { "time": "2026-06-01T02:53:41.895Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-06-01T02:23:41.866Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-06-01T01:53:41.809Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-06-01T01:23:41.768Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
@@ -42,7 +43,6 @@
     { "time": "2026-05-31T23:53:41.679Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T23:23:41.664Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-05-31T22:53:41.648Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-31T22:23:41.638Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-05-31T21:53:41.598Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" }
+    { "time": "2026-05-31T22:23:41.638Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" }
   ]
 }
