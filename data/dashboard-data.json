@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T16:57:08.345Z",
+  "lastUpdated": "2026-06-03T17:27:08.362Z",
   "actionRequired": [
     {
       "title": "Apply to MyGyan — EdTech AI startup, 94% match, hiring Full Stack Engineer + Intern",
@@ -27,13 +27,14 @@
     {
       "name": "ghost-dashboard-update",
       "schedule": "Every 30 min",
-      "lastRun": "2026-06-03T16:57:08.322Z",
+      "lastRun": "2026-06-03T17:27:08.345Z",
       "status": "ok",
       "errors": 0,
       "lastError": null
     }
   ],
   "recentActivity": [
+    { "time": "2026-06-03T17:27:08.362Z", "event": "🔄 Dashboard refreshed — 1 cron (0 errors), 0 sub-agents active" },
     { "time": "2026-06-03T16:57:08.345Z", "event": "🔄 Dashboard refreshed — 1 cron (0 errors), 0 sub-agents active" },
     { "time": "2026-06-03T16:27:08.322Z", "event": "🔄 Dashboard refreshed — 1 cron (0 errors), 0 sub-agents active" },
     { "time": "2026-06-03T15:57:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron (0 errors), 0 sub-agents active" },
@@ -42,7 +43,6 @@
     { "time": "2026-06-03T10:55:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-06-03T10:25:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
     { "time": "2026-06-03T09:55:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" },
-    { "time": "2026-06-03T09:25:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (14 consecutive errors: bedrock timeout, nvidia auth missing, groq model not found), 0 sub-agents active" },
-    { "time": "2026-06-02T22:25:37.127Z", "event": "🔄 Dashboard refreshed — 1 cron live (0 errors), 0 sub-agents active" }
+    { "time": "2026-06-03T09:25:00.000Z", "event": "🔄 Dashboard refreshed — 1 cron live (14 consecutive errors: bedrock timeout, nvidia auth missing, groq model not found), 0 sub-agents active" }
   ]
 }
